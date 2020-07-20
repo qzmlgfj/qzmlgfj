@@ -17,6 +17,12 @@ A lazy dog of SWJTU, undergraduate student.
 * Find something interests me, as a hobby after finishing my ~~boring~~ homework.
 
 <!--START_SECTION:waka-->
+```text
+Week: 12 July, 2020 - 19 July, 2020
+
+C           2 hrs 16 mins       ██████████████████████░░░   89.60 % 
+Verilog     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+```
 <!--END_SECTION:waka-->
 
 *Do not care about the "Arctic Code Vault Contributor", I got that just because of an unfinished repository.*
