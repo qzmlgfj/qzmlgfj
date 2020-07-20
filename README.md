@@ -17,7 +17,6 @@ A lazy dog of SWJTU, undergraduate student.
 * Find something interests me, as a hobby after finishing my ~~boring~~ homework.
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 *Do not care about the "Arctic Code Vault Contributor", I got that just because of an unfinished repository.*
