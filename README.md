@@ -16,6 +16,10 @@ A lazy dog of SWJTU, undergraduate student.
 * Upload my fieldwork, a **I2C driver for FPGA**, ALTERA EP4CE6E22C8, and a **driver for VL53L1X**, a TOF sensor.~~(If I could make it much easier to understand)~~
 * Find something interests me, as a hobby after finishing my ~~boring~~ homework.
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 *Do not care about the "Arctic Code Vault Contributor", I got that just because of an unfinished repository.*
 
 <!--
