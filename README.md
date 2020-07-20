@@ -27,7 +27,7 @@ Verilog     15 mins             ██░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-*Do not care about the "Arctic Code Vault Contributor", I got that just because of an unfinished repository.*
+*p.s.  Do not care about the "Arctic Code Vault Contributor", I got that just because of an unfinished repository.*
 
 <!--
 **qzmlgfj/qzmlgfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
