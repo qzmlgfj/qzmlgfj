@@ -16,6 +16,8 @@ A lazy dog of SWJTU, undergraduate student.
 * Upload my fieldwork, a **I2C driver for FPGA**, ALTERA EP4CE6E22C8, and a **driver for VL53L1X**, a TOF sensor.~~(If I could make it much easier to understand)~~
 * Find something interests me, as a hobby after finishing my ~~boring~~ homework.
 
+## I have worked on these recently
+
 <!--START_SECTION:waka-->
 ```text
 Week: 12 July, 2020 - 19 July, 2020
