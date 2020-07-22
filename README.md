@@ -20,10 +20,10 @@ A lazy dog of SWJTU, undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2020 - 20 July, 2020
+Week: 14 July, 2020 - 21 July, 2020
 
-C           2 hrs 16 mins       ██████████████████████░░░   89.60 % 
-Verilog     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+C         2 hrs 16 mins   ██████████████████████░░░   89.60 % 
+Verilog   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.40 %
 ```
 <!--END_SECTION:waka-->
 
