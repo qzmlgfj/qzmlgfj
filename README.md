@@ -14,10 +14,10 @@ A lazy dog of SWJTU, undergraduate student.
 ## Recent plans
 
 * Try to develop a website for [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP).
-* Upload my fieldwork, a **driver for VL53L1X**, a TOF sensor.~~(If I could make it much easier to understand)~~
+* Upload my internship, a **driver for VL53L1X**, a TOF sensor.~~(If I could make it much easier to understand)~~
 * Find something interests me, as a hobby after finishing my ~~boring~~ homework.
 
-*I have uploaded an **I2C driver for FPGA**, ALTERA EP4CE6E22C8 in a private repository, but because of my teacher's warning, I decided to publish it until this fieldwork is completely finished.*
+*I have uploaded an **I2C driver for FPGA**, ALTERA EP4CE6E22C8 in a private repository, but because of my teacher's warning, I decided to publish it until this internship is completely finished.*
 
 ## I have worked on these recently
 
