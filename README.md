@@ -23,7 +23,7 @@ A lazy dog of SWJTU, undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 July, 2020 - 02 August, 2020
+Week: 27 July, 2020 - 03 August, 2020
 
 Markdown   1 hr 3 mins     █████████████████████░░░░   86.34 % 
 YAML       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
