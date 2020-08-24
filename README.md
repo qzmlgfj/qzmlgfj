@@ -23,7 +23,7 @@ A lazy dog of SWJTU, undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2020 - 22 August, 2020
+Week: 16 August, 2020 - 23 August, 2020
 
 Python     3 hrs 41 mins   ████████████████▒░░░░░░░░   65.00 % 
 Java       1 hr 11 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.07 % 
