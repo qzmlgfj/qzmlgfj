@@ -23,11 +23,11 @@ A lazy dog of SWJTU, undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 August, 2020 - 29 August, 2020
+Week: 23 August, 2020 - 30 August, 2020
 
-Python     3 hrs 39 mins   ███████████████████████░░   91.67 % 
-Markdown   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-SQL        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Python     5 hrs 43 mins   █████████████████████▓░░░   86.25 % 
+Markdown   50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+SQL        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 <!--END_SECTION:waka-->
 
