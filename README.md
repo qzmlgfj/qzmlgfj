@@ -15,6 +15,7 @@ A lazy dog of SWJTU, undergraduate student.
 
 * Try to develop a website for [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP).
 * Upload my internship, a **driver for VL53L1X**, a TOF sensor.~~(If I could make it much easier to understand)~~
+* Develop a Markdown renderer which user can customize its css, of course it is GUI-based.~~(If I could finish  it before getting bored)~~
 * Find something interests me, as a hobby after finishing my ~~boring~~ homework.
 
 *I have uploaded an **I2C driver for FPGA**, ALTERA EP4CE6E22C8 in a private repository, but because of my teacher's warning, I decided to publish it until this internship is completely finished.*
