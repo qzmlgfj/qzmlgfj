@@ -19,16 +19,16 @@ A lazy dog of SWJTU, undergraduate student.
 * Work with my [teammates](https://github.com/SWJTU-Lazy-Dogs).
 * Find something interests me, as a hobby after finishing my ~~boring~~ homework.
 
-*I have uploaded an **I2C driver for FPGA**, ALTERA EP4CE6E22C8 in a private repository, but because of my teacher's warning, I decided to publish it until this internship is completely finished.*
+*I have uploaded an **I2C driver for FPGA**, ALTERA EP4CE6E22C8 in a private repository, but because of my teacher's warning, I decided to publish it until this internship is finished completely.*
 
 ## I have worked on these recently
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2020 - 08 September, 2020
+Week: 02 September, 2020 - 09 September, 2020
 
-Markdown   3 hrs 46 mins   ████████████████████████░   96.00 % 
-SQL        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Markdown   5 hrs 15 mins   ████████████████████████▒   97.09 % 
+SQL        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 <!--END_SECTION:waka-->
 
