@@ -32,6 +32,8 @@ SQL        8 mins          █░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+*Seems that WakaTime doesn't work with WSL, in which I write C, so the time I spent on C cannot update promptly.*
+
 *p.s.  Do not care about the "Arctic Code Vault Contributor", I got that just because of an unfinished repository.*
 
 <!--
