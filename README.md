@@ -22,11 +22,11 @@ A lazy dog of SWJTU, undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2020 - 28 September, 2020
+Week: 22 September, 2020 - 29 September, 2020
 
-Markdown   4 hrs 17 mins   ██████████████████▒░░░░░░   73.65 % 
-Verilog    1 hr 7 mins     █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Java       22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Markdown   2 hrs 44 mins   █████████████████▒░░░░░░░   69.51 % 
+Verilog    48 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Java       22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 ```
 <!--END_SECTION:waka-->
 
