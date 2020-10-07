@@ -22,7 +22,7 @@ A lazy dog of SWJTU, undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 September, 2020 - 05 October, 2020
+Week: 29 September, 2020 - 06 October, 2020
 
 C++        1 hr 35 mins    ██████████▓░░░░░░░░░░░░░░   42.89 % 
 Markdown   47 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.56 % 
