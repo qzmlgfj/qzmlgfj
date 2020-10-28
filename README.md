@@ -22,13 +22,13 @@ A lazy dog of SWJTU, undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2020 - 26 October, 2020
+Week: 20 October, 2020 - 27 October, 2020
 
-Markdown   5 hrs 51 mins   ██████████▓░░░░░░░░░░░░░░   42.42 % 
-Java       3 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.33 % 
-Verilog    2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-NASM       1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-C++        38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Markdown   6 hrs 30 mins   ███████████▒░░░░░░░░░░░░░   44.98 % 
+Java       3 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.13 % 
+Verilog    2 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+NASM       1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+C++        54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 ```
 <!--END_SECTION:waka-->
 
