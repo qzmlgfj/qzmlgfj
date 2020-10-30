@@ -13,10 +13,15 @@ A lazy dog of SWJTU, undergraduate student.
 
 ## Recent plans
 
+* **Spend this semester safely**
+* Write some introductory articles about Computer Science.
+
+<!--
 * Try to develop a website for [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP).
 * Develop a Markdown renderer which user can customize its css, of course it is GUI-based.~~(If I could finish  it before getting bored)~~
 * Work with my [teammates](https://github.com/SWJTU-Lazy-Dogs).
 * Find something interests me, as a hobby after finishing my ~~boring~~ homework.
+-->
 
 ## I have worked on these recently
 
