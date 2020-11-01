@@ -2,7 +2,7 @@
 
 ## Who's this guy
 
-A lazy dog of SWJTU, undergraduate student.
+A lazy dog from a second-rate university, an undergraduate student.
 
 ## Interests
 
