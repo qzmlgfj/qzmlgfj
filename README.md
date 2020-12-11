@@ -27,13 +27,13 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
-Java       10 hrs 52 mins  ██████████████▒░░░░░░░░░░   56.98 % 
-Markdown   6 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.87 % 
-Other      44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-SQL        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-C++        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Java       11 hrs 2 mins   █████████████████░░░░░░░░   67.60 % 
+Markdown   3 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.56 % 
+Other      46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+SQL        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+C++        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
 
