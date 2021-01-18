@@ -13,7 +13,7 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 ## Recent plans
 
-* **Spend this semester safely**
+* Find something interests me.
 * Write some introductory articles about Computer Science.
 
 <!--
