@@ -27,10 +27,10 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 February, 2021 - 27 February, 2021
+Week: 21 February, 2021 - 28 February, 2021
 
-Markdown   2 hrs 5 mins    ████████████████████████░   96.53 % 
-Python     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Markdown   1 hr 34 mins    ████████████████████████░   95.47 % 
+Python     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 ```
 <!--END_SECTION:waka-->
 
