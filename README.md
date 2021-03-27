@@ -27,12 +27,12 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 March, 2021 - 25 March, 2021
+Week: 19 March, 2021 - 26 March, 2021
 
-Python    3 hrs 12 mins   ████████████████░░░░░░░░░   63.64 % 
-C         1 hr 44 mins    ████████▓░░░░░░░░░░░░░░░░   34.46 % 
-Verilog   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-JSON      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Python    1 hr 52 mins    ████████████▓░░░░░░░░░░░░   50.60 % 
+C         1 hr 44 mins    ███████████▓░░░░░░░░░░░░░   46.82 % 
+Verilog   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JSON      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
 
