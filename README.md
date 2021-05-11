@@ -27,12 +27,12 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 May, 2021 - 09 May, 2021
+Week: 03 May, 2021 - 10 May, 2021
 
-C             23 mins         ████████████▓░░░░░░░░░░░░   50.20 % 
-C++           17 mins         █████████▒░░░░░░░░░░░░░░░   37.31 % 
-INI           3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Objective-C   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+C             1 hr 5 mins     ██████████████████▒░░░░░░   73.67 % 
+C++           17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+INI           3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Objective-C   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 <!--END_SECTION:waka-->
 
