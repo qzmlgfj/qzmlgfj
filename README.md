@@ -27,13 +27,13 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 May, 2021 - 31 May, 2021
+Week: 25 May, 2021 - 01 June, 2021
 
-C          2 hrs 21 mins   ██████████████████▓░░░░░░   74.76 % 
-Markdown   26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-C++        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-SQL        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-C#         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Java       2 hrs 21 mins   █████████▓░░░░░░░░░░░░░░░   38.33 % 
+C          2 hrs 21 mins   █████████▓░░░░░░░░░░░░░░░   38.32 % 
+Markdown   33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Other      17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+SQL        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 <!--END_SECTION:waka-->
 
