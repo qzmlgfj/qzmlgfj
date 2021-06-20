@@ -27,13 +27,13 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 June, 2021 - 18 June, 2021
+Week: 12 June, 2021 - 19 June, 2021
 
-Java         6 hrs 20 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-Python       4 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.27 % 
-Vue.js       4 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-TeX          3 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-JavaScript   1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Python     4 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+TeX        3 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.08 % 
+Java       3 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.79 % 
+Vue.js     2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Markdown   1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 ```
 <!--END_SECTION:waka-->
 
