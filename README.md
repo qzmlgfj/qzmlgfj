@@ -27,13 +27,13 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 July, 2021 - 27 July, 2021
+Week: 22 July, 2021 - 28 July, 2021
 
-Vue.js                     4 hrs 53 mins   ████████████▒░░░░░░░░░░░░   49.04 % 
-Markdown                   4 hrs 34 mins   ███████████▒░░░░░░░░░░░░░   45.89 % 
-JavaScript                 24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Nginx configuration file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-JSON                       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Markdown                   3 hrs 53 mins   ██████████████▓░░░░░░░░░░   58.95 % 
+Vue.js                     2 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   33.38 % 
+JavaScript                 24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Nginx configuration file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JSON                       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
 
