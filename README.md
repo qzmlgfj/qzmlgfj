@@ -27,13 +27,13 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2021 - 28 November, 2021
+Week: 23 November, 2021 - 29 November, 2021
 
-Other    4 hrs 12 mins   ███████████████░░░░░░░░░░   60.38 % 
-Java     2 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   31.39 % 
-XML      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Python   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-JSON     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Other    4 hrs           █████████████░░░░░░░░░░░░   52.51 % 
+Java     2 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   28.67 % 
+TeX      37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Python   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+XML      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 <!--END_SECTION:waka-->
 
