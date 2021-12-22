@@ -27,7 +27,7 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
 TeX        3 hrs 57 mins   ████████████░░░░░░░░░░░░░   48.25 % 
 Markdown   3 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   40.15 % 
