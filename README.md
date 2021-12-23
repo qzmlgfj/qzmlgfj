@@ -9,7 +9,7 @@ A lazy dog from a second-rate university, an undergraduate student.
 * Enjoy creating new projects and repositories, but never finish them.
 * Front-end development, just a beginner.
 * Making gadgets.
-* Writing something in my personal [blog](https://qzmlgfj.ml/blog).
+* Writing something in my personal [blog](https://blog.qzmlgfj.ml/).
 
 ## Recent plans
 
