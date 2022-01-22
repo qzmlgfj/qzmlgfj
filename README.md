@@ -27,12 +27,12 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2022 - 20 January, 2022
+Week: 15 January, 2022 - 21 January, 2022
 
-Markdown   2 hrs 8 mins    ████████████▓░░░░░░░░░░░░   50.35 % 
-Python     1 hr 43 mins    ██████████▒░░░░░░░░░░░░░░   40.69 % 
-SQL        20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Python     2 hrs 26 mins   ████████████░░░░░░░░░░░░░   48.58 % 
+Markdown   2 hrs 8 mins    ██████████▓░░░░░░░░░░░░░░   42.75 % 
+SQL        20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+JSON       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 <!--END_SECTION:waka-->
 
