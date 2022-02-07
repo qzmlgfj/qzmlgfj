@@ -27,7 +27,7 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 31 January, 2022 - 06 February, 2022
 
 Python       50 mins         ██████████░░░░░░░░░░░░░░░   40.52 % 
 C++          24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
