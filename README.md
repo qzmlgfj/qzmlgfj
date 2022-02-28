@@ -26,9 +26,11 @@ A lazy dog from a second-rate university, an undergraduate student.
 ## I have worked on these recently
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 *p.s.  Do not care about the "Arctic Code Vault Contributor", I got that just because of an unfinished repository.*
