@@ -28,12 +28,12 @@ A lazy dog from a second-rate university, an undergraduate student.
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2022 - To: 27 March 2022
+From: 21 March 2022 - To: 28 March 2022
 
-Python       6 hrs 18 mins   ███████████████████▓░░░░░   78.35 %
-Vue.js       1 hr 28 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
-JavaScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python       6 hrs 12 mins   █████████████▓░░░░░░░░░░░   54.00 %
+Vue.js       4 hrs 53 mins   ██████████▓░░░░░░░░░░░░░░   42.53 %
+JavaScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
