@@ -28,14 +28,14 @@ A lazy dog from a second-rate university, an undergraduate student.
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 September 2022 - To: 08 September 2022
+From: 02 September 2022 - To: 09 September 2022
 
-Vue.js       7 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-HTML         6 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-CSS          5 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-Go           3 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-Markdown     2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-TypeScript   1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Vue.js       5 hrs 46 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
+HTML         3 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+Go           3 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+CSS          2 hrs 49 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Markdown     2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+TypeScript   1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 ```
 
 <!--END_SECTION:waka-->
