@@ -2,7 +2,7 @@
 
 ## Who's this guy
 
-A lazy dog from a second-rate university, an undergraduate student.
+A lazy dog graduated from a second-rate university.
 
 ## Interests
 
@@ -13,7 +13,6 @@ A lazy dog from a second-rate university, an undergraduate student.
 
 ## Recent plans
 
-* Finish my graduation project.
 * Write some introductory articles about Computer Science.
 
 <!--
