@@ -2,7 +2,7 @@
 
 ## Who's this guy
 
-A lazy dog graduated from a second-rate university.
+A lazy dog from a second-rate university, CS student.
 
 ## Interests
 
