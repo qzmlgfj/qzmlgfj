@@ -27,11 +27,7 @@ A lazy dog from a second-rate university, CS student.
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 08 December 2022
-
-Java   28 mins         ████████████▓░░░░░░░░░░░░   50.73 %
-XML    25 mins         ███████████▒░░░░░░░░░░░░░   45.66 %
-SQL    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
