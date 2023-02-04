@@ -27,14 +27,14 @@ A lazy dog from a second-rate university, CS student.
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 January 2023 - To: 01 February 2023
+From: 26 January 2023 - To: 02 February 2023
 
-Java           6 hrs 48 mins   ████████████░░░░░░░░░░░░░   47.85 %
-Markdown       3 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
-Vue.js         2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
-HTML           31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-XML            20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Python         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Java           8 hrs 22 mins   ████████████▓░░░░░░░░░░░░   50.59 %
+Markdown       2 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Vue.js         2 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+Python         57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+XML            39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+HTML           31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
