@@ -27,14 +27,14 @@ A lazy dog from a second-rate university, CS student.
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2023 - To: 05 March 2023
+From: 27 February 2023 - To: 06 March 2023
 
-Markdown                               5 hrs 26 mins   ███████████░░░░░░░░░░░░░░   44.28 %
-XML                                    2 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
-Java                                   1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
-Python                                 1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-Activiti BPMN 2.0 Engine XML process   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-JSON                                   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Markdown                               3 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   27.90 %
+Java                                   3 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   27.66 %
+XML                                    2 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
+Python                                 1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+YAML                                   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Activiti BPMN 2.0 Engine XML process   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
