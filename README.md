@@ -27,13 +27,13 @@ A lazy dog from a second-rate university, CS student.
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2023 - To: 17 May 2023
+From: 11 May 2023 - To: 18 May 2023
 
-Java                                   11 hrs 29 mins  █████████████████████▓░░░   87.09 %
-XML                                    45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Markdown                               12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-SQL                                    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Activiti BPMN 2.0 Engine XML process   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Java                                   11 hrs 59 mins  ██████████████████████░░░   87.96 %
+XML                                    55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+SQL                                    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Activiti BPMN 2.0 Engine XML process   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+YAML                                   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
