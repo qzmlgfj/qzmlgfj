@@ -4,6 +4,8 @@
 
 A lazy dog from a second-rate university, CS student.
 
+But now a CRUD boy😭.
+
 ## Interests
 
 * Enjoy creating new projects and repositories, but never finish them.
