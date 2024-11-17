@@ -29,7 +29,7 @@ But now a CRUD boy😭.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2024 - To: 14 November 2024
+From: 08 November 2024 - To: 15 November 2024
 
 Python     19 mins         ████████████████▓░░░░░░░░   67.11 %
 Markdown   9 mins          ████████▒░░░░░░░░░░░░░░░░   32.89 %
