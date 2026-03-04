@@ -29,13 +29,12 @@ But now a CRUD boy😭.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2026 - To: 01 March 2026
+From: 23 February 2026 - To: 02 March 2026
 
-Python       2 hrs 50 mins         ██████████████▓░░░░░░░░░░   58.95 %
-Markdown     1 hr 43 mins          █████████░░░░░░░░░░░░░░░░   36.03 %
-TeX          7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-JavaScript   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python     2 hrs 28 mins         █████████████████░░░░░░░░   67.37 %
+Markdown   1 hr 11 mins          ████████░░░░░░░░░░░░░░░░░   32.31 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TeX        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
