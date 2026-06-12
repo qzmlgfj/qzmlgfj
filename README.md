@@ -29,7 +29,7 @@ But now a CRUD boy😭.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2026 - To: 09 June 2026
+From: 03 June 2026 - To: 10 June 2026
 
 Markdown     49 mins               ████████████▓░░░░░░░░░░░░   50.59 %
 Java         34 mins               ████████▓░░░░░░░░░░░░░░░░   34.90 %
