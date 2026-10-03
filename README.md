@@ -9,9 +9,8 @@ But now a CRUD boy😭.
 ## Interests
 
 * Enjoy creating new projects and repositories, but never finish them.
-* Front-end development, just a beginner.
 * Making gadgets.
-* Writing something in my personal [blog](https://blog.antrol.xyz/).
+* Writing something in my personal blog.
 
 ## Recent plans
 
