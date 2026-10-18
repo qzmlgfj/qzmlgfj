@@ -28,10 +28,10 @@ But now a CRUD boy😭.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2026 - To: 15 October 2026
+From: 09 October 2026 - To: 16 October 2026
 
-Markdown   2 hrs 50 mins         ███████████████████████░░   92.21 %
-Python     14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Markdown   32 mins               █████████████████▒░░░░░░░   68.97 %
+Python     14 mins               ███████▓░░░░░░░░░░░░░░░░░   31.03 %
 ```
 
 <!--END_SECTION:waka-->
